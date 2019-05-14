@@ -1,3 +1,5 @@
-Hello Guys out there. This is test file
-
+<<<<<<< HEAD
 making some change now..lalalalalalalala
+=======
+making some change now..modified now
+>>>>>>> training
